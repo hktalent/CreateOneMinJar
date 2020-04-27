@@ -10,7 +10,7 @@ Create One Min Jar file
 ```
 public static void main(String[] args) throws Exception {
     // ... your code
-    com._51pwn.hktalent.CreatJar.main(null);
+    com._51pwn.hktalent.CreatJar.main(args);
 ```
 now you get jar: 51pwn.com.jar
 
