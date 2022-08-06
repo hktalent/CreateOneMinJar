@@ -3,7 +3,7 @@ Twitter: [@Hktalent3135773](https://twitter.com/Hktalent3135773)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Hktalent3135773.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=Hktalent3135773)
 
 # CreateOneMinJar
-Create One Min Jar file
+Automatically search for the required class and package it as a jar Create One Min Jar file
 
 ## how use
 - 1、in your main end code
